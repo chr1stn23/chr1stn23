@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hola, soy Chrisitan
 
-<!--
-**chr1stn23/chr1stn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación  
+🚀 Apasionado por la tecnología y el desarrollo web
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Sobre mí
+- Aprendiendo Java y React
+- Me gusta crear proyectos prácticos
+- Siempre buscando mejorar mis habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- HTML, CSS, JavaScript, Java
+- React
+- Git y GitHub
+
+## 🔭 Actualmente
+- Desarrollando proyectos personales
+- Estudiando desarrollo web
+
+## 🎯 Objetivos
+- Conseguir mi primer trabajo como desarrollador
+- Aprender nuevas tecnologías
+- Aportar a la comunidad
+
+## 📫 Contacto
+- LinkedIn: https://linkedin.com/in/christian-lara-vega
+- Email: lvchristian20@gmail.com
