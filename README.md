@@ -1,4 +1,4 @@
-# 👋 Hola, soy Chrisitan
+# 👋 Hola, soy Christian
 
 💻 Desarrollador en formación  
 🚀 Apasionado por la tecnología y el desarrollo web
@@ -9,7 +9,7 @@
 - Siempre buscando mejorar mis habilidades
 
 ## 🛠️ Tecnologías
-- HTML, CSS, JavaScript, Java
+- HTML, CSS, JavaScript & Java
 - React
 - Git y GitHub
 
