@@ -10,12 +10,11 @@
 
 ## 🛠️ Tecnologías
 - HTML, CSS, JavaScript & Java
-- React
-- Git y GitHub
+- Angular & React
+- Git & GitHub
 
 ## 🔭 Actualmente
 - Desarrollando proyectos personales
-- Estudiando desarrollo web
 
 ## 🎯 Objetivos
 - Conseguir mi primer trabajo como desarrollador
